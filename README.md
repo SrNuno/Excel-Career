@@ -24,8 +24,14 @@
 
 03/20/2023_22:18 -> Comienzo del segundo curso de la carrera: Curso de Excel (Funciones básicas).
 
-03/20/2023_01:07 -> Finalización 2.1 (Curso de Excel: Funciones básicas - Funciones matemáticas).
+03/21/2023_01:07 -> Finalización 2.1 (Curso de Excel: Funciones básicas - Funciones matemáticas).
 
 	Apartados para terminar el curso: 3
+
+------------------------------------------------------------------------------------------------------------
+
+03/22/2023_01:45 -> Finalización 2.2 (Curso de Excel: Funciones básicas - Funciones estadísticas).
+
+	Apartados para terminar el curso: 2
 
 ------------------------------------------------------------------------------------------------------------
