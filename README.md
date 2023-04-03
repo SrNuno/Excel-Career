@@ -35,3 +35,9 @@
 	Apartados para terminar el curso: 2
 
 ------------------------------------------------------------------------------------------------------------
+
+04/03/2023_17:35 -> Finalización 2.3 (Curso de Excel: Funciones básicas - Funciones fecha).
+
+04/03/2023_23:47 -> Finalización 2.4 (Curso de Excel: Funciones básicas - Funciones texto).
+
+------------------------------------------------------------------------------------------------------------
