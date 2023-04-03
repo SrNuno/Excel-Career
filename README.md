@@ -40,4 +40,6 @@
 
 04/03/2023_23:47 -> Finalización 2.4 (Curso de Excel: Funciones básicas - Funciones texto).
 
+04/03/2023_23:50 -> Finalización del Curso de Excel: Funciones básicas.
+
 ------------------------------------------------------------------------------------------------------------
