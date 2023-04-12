@@ -47,3 +47,9 @@
 04/12/2023_23:54 -> Comienzo del tercer curso de la carrera: Curso de Excel (Funciones avanzadas).
 
 	Apartados para terminar el curso: 4
+	
+------------------------------------------------------------------------------------------------------------
+
+04/12/2023_17:27 -> Finalización 3.1 (Curso de Excel: Funciones avanzadas - Funciones lógicas).
+
+	Apartados para terminar el curso: 3
