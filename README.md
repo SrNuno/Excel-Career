@@ -60,3 +60,8 @@
 
 04/22/2023_16:09 -> Finalización 3.3 (Curso de Excel: Funciones avanzadas - Funciones varias).
 
+04/23/2023_00:59 -> Finalización 3.4 (Curso de Excel: Funciones avanzadas - Novedades Excel 365).
+
+04/23/2023_00:59 -> Finalización del Curso de Excel: Funciones avanzadas.
+
+------------------------------------------------------------------------------------------------------------
