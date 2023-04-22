@@ -59,3 +59,9 @@
 04/12/2023_17:27 -> Finalización 3.2 (Curso de Excel: Funciones avanzadas - Funciones búsqueda).
 
 	Apartados para terminar el curso: 2
+	
+------------------------------------------------------------------------------------------------------------
+
+04/12/2023_17:27 -> Finalización 3.3 (Curso de Excel: Funciones avanzadas - Funciones varias).
+
+	Apartados para terminar el curso: 1	
