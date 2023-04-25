@@ -66,9 +66,9 @@
 
 ------------------------------------------------------------------------------------------------------------
 
-04/12/2023_16:17 -> Comienzo del cuarto curso de la carrera: Curso de Excel (Bases de datos).
+04/25/2023_16:17 -> Comienzo del cuarto curso de la carrera: Curso de Excel (Bases de datos).
 
-04/12/2023_20:35 -> Finalización 4.1 (Curso de Excel: Bases de datos - Tablas).	
+04/25/2023_20:35 -> Finalización 4.1 (Curso de Excel: Bases de datos - Tablas).	
 	
 	Apartados para terminar el curso: 2
 ------------------------------------------------------------------------------------------------------------
