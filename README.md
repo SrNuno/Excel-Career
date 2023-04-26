@@ -72,3 +72,7 @@
 	
 	Apartados para terminar el curso: 2
 ------------------------------------------------------------------------------------------------------------
+
+04/26/2023_16:48 -> Finalización 4.2 (Curso de Excel: Bases de datos - Tablas dinámicas).	
+	
+
