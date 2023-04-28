@@ -75,4 +75,10 @@
 
 04/26/2023_16:48 -> Finalización 4.2 (Curso de Excel: Bases de datos - Tablas dinámicas).	
 	
+	Apartados para terminar el curso: 1
+	
+------------------------------------------------------------------------------------------------------------
 
+04/28/2023_17:30 -> Finalización 4.3 (Curso de Excel: Bases de datos - Importar y relacionar datos).
+
+04/28/2023_17:30 -> Finalización del Curso de Excel: Bases de datos.
