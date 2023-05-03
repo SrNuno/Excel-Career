@@ -82,3 +82,14 @@
 04/28/2023_17:30 -> Finalización 4.3 (Curso de Excel: Bases de datos - Importar y relacionar datos).
 
 04/28/2023_17:30 -> Finalización del Curso de Excel: Bases de datos.
+
+------------------------------------------------------------------------------------------------------------
+
+05/03/2023_12:17 -> Comienzo del quinto curso de la carrera: Curso de Excel (Gráficos).
+
+05/03/2023_13:06 -> Finalización 5.1 (Curso de Excel: Bases de datos - Gráficos en Excel).	
+	
+05/03/2023_14:25 -> Finalización 5.2 (Curso de Excel: Bases de datos - Imágenes en Excel).
+
+05/03/2023_14:25 -> Finalización del Curso de Excel: Gráficos.
+------------------------------------------------------------------------------------------------------------
