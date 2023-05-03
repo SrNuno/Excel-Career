@@ -94,3 +94,5 @@
 05/03/2023_14:25 -> Finalización del Curso de Excel: Gráficos.
 
 ------------------------------------------------------------------------------------------------------------
+
+05/03/2023_16:13 -> Comienzo del sexto curso de la carrera: Curso de Excel (Macros).
