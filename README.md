@@ -92,4 +92,5 @@
 05/03/2023_14:25 -> Finalización 5.2 (Curso de Excel: Bases de datos - Imágenes en Excel).
 
 05/03/2023_14:25 -> Finalización del Curso de Excel: Gráficos.
+
 ------------------------------------------------------------------------------------------------------------
