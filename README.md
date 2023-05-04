@@ -96,3 +96,7 @@
 ------------------------------------------------------------------------------------------------------------
 
 05/03/2023_16:13 -> Comienzo del sexto curso de la carrera: Curso de Excel (Macros).
+
+05/04/2023_22:02 -> Finalización 6.1 (Curso de Excel: Bases de datos - Macros en Excel).
+
+05/04/2023_14:25 -> Finalización del Curso de Excel: Macros.
