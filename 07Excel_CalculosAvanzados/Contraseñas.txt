@@ -1,0 +1,5 @@
+Contraseñas:
+	De apertura -> Miguel13@
+	De escritura -> Miguel13@
+	Proteger Libro -> Miguel13@
+	Proteger Hoja -> Miguel13@
