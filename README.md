@@ -100,3 +100,13 @@
 05/04/2023_22:02 -> Finalización 6.1 (Curso de Excel: Bases de datos - Macros en Excel).
 
 05/04/2023_22:02 -> Finalización del Curso de Excel: Macros.
+
+------------------------------------------------------------------------------------------------------------
+
+05/08/2023_18:36 -> Comienzo del séptimo curso de la carrera: Curso de Excel (Cálculos avanzados).
+
+05/08/2023_19:27 -> Finalización 7.1 (Curso de Excel: Herramientas de cálculo avanzadas - Cálculos avanzados).
+
+05/08/2023_19:38 -> Finalización 7.2 (Curso de Excel: Herramientas de cálculo avanzadas - Protección).
+
+05/08/2023_19:38 -> Finalización del Curso de Excel: Herramientas de cálculo avanzadas.
