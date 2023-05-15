@@ -1,112 +1,12 @@
-# OPENWEBINARS - CARRERA ESPECIALISTA EN MICROSOFT EXCEL
------------------------------------------------------------------------------------------------------------
-03/15/2023_00:41 -> Comienzo del primer curso de la carrera: Curso de Excel para principiantes.
+# OpenWebinars - Microsoft Excel
+Excel para principiantes
+------------------------------------------------------------------------------------------------------------------------------
+15/03/2023 - 17/03/2023: Este primer curso, consiste en una toma de contacto con el programa para gente que no lo haya utilizado nunca. Se aprenden varias cosas básicas, que de vez en cuando, te pueden sacar de algún problema. Tenemos también el uso de diversos gráficos (barras, 3D, circular...), también usamos unas pocas funciones (suma, promedio...).
 
-03/15/2023_00:42 -> Finalización 1.1 (Curso de Excel para principiantes - Trabajar con archivos en Excel).
+Funciones Básicas
+------------------------------------------------------------------------------------------------------------------------------
+20/03/2023 - 03/04/2023: Este tema, va dedicado únicamente a las funciones que contiene Excel y a sus diversos tipos. En cada uno, hay muchas funciones que tienen un uso muy grande, (como por ejemplo: las dos mencionadas anteriormente, también tenemos contar -> utilizada para contar celdas que contienen números, hoy -> indica la fecha del día en el que estamos actualmente, etc...)
 
-03/15/2023_00:52 -> Finalización 1.2 (Curso de Excel para principiantes - Formato de celdas).
-
-03/15/2023_01:13 -> Finalización 1.3 (Curso de Excel para principiantes - Realizar cálculos).
-	
-	Apartados para terminar el curso: 3
-
-------------------------------------------------------------------------------------------------------------
-	
-03/17/2023_01:48 -> Finalización 1.4 (Curso de Excel para principiantes - Gráficos).
-
-03/17/2023_02:03 -> Finalización 1.5 Curso de Excel para principiantes - Hojas de cálculo).
-
-03/17/2023_02:12 -> Finalización 1.5 Curso de Excel para principiantes - Diseño de impresión).
-
-03/17/2023_02:34 -> Finalización del Curso de Excel para principiantes.
-
--------------------------------------------------------------------------------------------------------------
-
-03/20/2023_22:18 -> Comienzo del segundo curso de la carrera: Curso de Excel (Funciones básicas).
-
-03/21/2023_01:07 -> Finalización 2.1 (Curso de Excel: Funciones básicas - Funciones matemáticas).
-
-	Apartados para terminar el curso: 3
-
-------------------------------------------------------------------------------------------------------------
-
-03/22/2023_01:45 -> Finalización 2.2 (Curso de Excel: Funciones básicas - Funciones estadísticas).
-
-	Apartados para terminar el curso: 2
-
-------------------------------------------------------------------------------------------------------------
-
-04/03/2023_17:35 -> Finalización 2.3 (Curso de Excel: Funciones básicas - Funciones fecha).
-
-04/03/2023_23:47 -> Finalización 2.4 (Curso de Excel: Funciones básicas - Funciones texto).
-
-04/03/2023_23:50 -> Finalización del Curso de Excel: Funciones básicas.
-
-------------------------------------------------------------------------------------------------------------
-
-04/12/2023_23:54 -> Comienzo del tercer curso de la carrera: Curso de Excel (Funciones avanzadas).
-
-	Apartados para terminar el curso: 4
-	
-------------------------------------------------------------------------------------------------------------
-
-04/12/2023_17:27 -> Finalización 3.1 (Curso de Excel: Funciones avanzadas - Funciones lógicas).
-
-	Apartados para terminar el curso: 3
-	
-------------------------------------------------------------------------------------------------------------
-
-04/22/2023_13:55 -> Finalización 3.2 (Curso de Excel: Funciones avanzadas - Funciones búsqueda).
-
-04/22/2023_16:09 -> Finalización 3.3 (Curso de Excel: Funciones avanzadas - Funciones varias).
-
-04/23/2023_00:59 -> Finalización 3.4 (Curso de Excel: Funciones avanzadas - Novedades Excel 365).
-
-04/23/2023_00:59 -> Finalización del Curso de Excel: Funciones avanzadas.
-
-------------------------------------------------------------------------------------------------------------
-
-04/25/2023_16:17 -> Comienzo del cuarto curso de la carrera: Curso de Excel (Bases de datos).
-
-04/25/2023_20:35 -> Finalización 4.1 (Curso de Excel: Bases de datos - Tablas).	
-	
-	Apartados para terminar el curso: 2
-------------------------------------------------------------------------------------------------------------
-
-04/26/2023_16:48 -> Finalización 4.2 (Curso de Excel: Bases de datos - Tablas dinámicas).	
-	
-	Apartados para terminar el curso: 1
-	
-------------------------------------------------------------------------------------------------------------
-
-04/28/2023_17:30 -> Finalización 4.3 (Curso de Excel: Bases de datos - Importar y relacionar datos).
-
-04/28/2023_17:30 -> Finalización del Curso de Excel: Bases de datos.
-
-------------------------------------------------------------------------------------------------------------
-
-05/03/2023_12:17 -> Comienzo del quinto curso de la carrera: Curso de Excel (Gráficos).
-
-05/03/2023_13:06 -> Finalización 5.1 (Curso de Excel: Bases de datos - Gráficos en Excel).	
-	
-05/03/2023_14:25 -> Finalización 5.2 (Curso de Excel: Bases de datos - Imágenes en Excel).
-
-05/03/2023_14:25 -> Finalización del Curso de Excel: Gráficos.
-
-------------------------------------------------------------------------------------------------------------
-
-05/03/2023_16:13 -> Comienzo del sexto curso de la carrera: Curso de Excel (Macros).
-
-05/04/2023_22:02 -> Finalización 6.1 (Curso de Excel: Bases de datos - Macros en Excel).
-
-05/04/2023_22:02 -> Finalización del Curso de Excel: Macros.
-
-------------------------------------------------------------------------------------------------------------
-
-05/08/2023_18:36 -> Comienzo del séptimo curso de la carrera: Curso de Excel (Cálculos avanzados).
-
-05/08/2023_19:27 -> Finalización 7.1 (Curso de Excel: Herramientas de cálculo avanzadas - Cálculos avanzados).
-
-05/08/2023_19:38 -> Finalización 7.2 (Curso de Excel: Herramientas de cálculo avanzadas - Protección).
-
-05/08/2023_19:38 -> Finalización del Curso de Excel: Herramientas de cálculo avanzadas.
+Funciones Avanzadas
+------------------------------------------------------------------------------------------------------------------------------
+12/04/2023 - 23/04/2023: Las funciones avanzadas "van de la mano con el tema anterior", es una prolongación del anterior tema que simplemente se nos explica, varios tipos más de funciones (algunas también bastante utilizadas, es el caso de if -> para temas de condiciones, el and/or -> para combinar condiciones/casos). Tenemos también funciones de búsqueda, (como BuscarV, BuscarH o BuscarX) y hay una más que es bastante cómoda, FormulaTexto.
